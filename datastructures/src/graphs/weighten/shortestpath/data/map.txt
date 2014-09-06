@@ -1,0 +1,25 @@
+A B 20
+A H 30
+B H 5
+B J 10
+B C 30
+H C 25
+H E 10
+H G 25
+C J 15
+C F 10
+C E 15
+J F 30
+E G 20
+E D 40
+E I 45
+E F 25
+G I 20
+F D 15
+D I 5
+K L 10
+L M 5
+
+A D
+H K
+A E

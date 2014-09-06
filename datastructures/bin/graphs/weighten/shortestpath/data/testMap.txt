@@ -1,0 +1,15 @@
+A B 30
+G H 23
+D F 12
+A C 17
+B F 50
+S H 23
+A G 20
+B L 23
+C G 23
+D C 12
+H F 20
+ 
+A G
+
+

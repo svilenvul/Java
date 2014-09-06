@@ -1,0 +1,4 @@
+The best platform is:
+ 9 5
+ 1 2
+The maximal sum is: 17
